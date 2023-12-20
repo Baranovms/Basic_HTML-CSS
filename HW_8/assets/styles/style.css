@@ -27,7 +27,7 @@ img {
 /* --------------------------- */
 
 .top__container {
-    width: 1600px;
+    /* width: 1600px; */
     margin: 0 auto;
 }
 
@@ -84,10 +84,10 @@ img {
 
 .menu__box {
     display: flex;
-    position: absolute;
+    position: fixed;
     flex-direction: column;
     top: 75px;
-    right: -200%;
+    right: 0;
     width: 232px;
     height: 634px;
     margin: 0;
@@ -414,9 +414,9 @@ span.h2pink {
         width: 768px;
     }
 
-    .top__container {
+    /* .top__container {
         width: 768px;
-    }
+    } */
 
     .logo {
         margin-left: 32px;
@@ -440,7 +440,7 @@ span.h2pink {
         margin-left: 39px;
         margin-top: 138px;
         margin-bottom: 138px;
-        margin-right: 33px;
+        /* margin-right: 33px; */
         width: 311px;
         height: 92px;
     }
@@ -488,9 +488,9 @@ span.h2pink {
         width: 359px;
     }
 
-    .top__container {
+    /* .top__container {
         width: 375px;
-    }
+    } */
 
     .logo {
         margin-left: 16px;
@@ -512,7 +512,7 @@ span.h2pink {
         margin-left: 56px;
         margin-top: 148px;
         margin-bottom: 149px;
-        margin-right: 56px;
+        /* margin-right: 56px; */
         width: 263px;
         height: 66px;
     }
