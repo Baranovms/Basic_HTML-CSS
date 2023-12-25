@@ -13,6 +13,7 @@ body {
     background: #FFFFFF;
     margin: 0 auto;
 }
+
 img {
     display: block;
     max-width: 100%;
@@ -23,6 +24,7 @@ header {
     background: #222222;
     margin: 0 auto;
 }
+
 .container {
     width: 1140px;
     margin: 0 auto;
@@ -35,15 +37,18 @@ header {
     padding-bottom: 19px;
     align-items: center;
 }
+
 .left-side-navigation {
     display: flex;
     gap: 41px;
 }
+
 .right-side-navigation {
     display: flex;
     gap: 33px;
     position: relative;
 }
+
 .right-side-navigation img {
     cursor: pointer;
 }
@@ -68,6 +73,7 @@ header {
     align-items: center;
     background: #F1E4E6
 }
+
 .style-thebrand {
     width: 377px;
     height: 92px;
@@ -79,6 +85,7 @@ header {
     justify-content: center;
     margin-bottom: 85px;
 }
+
 .tittle-men {
     margin-left: 160px;
 }
@@ -90,6 +97,7 @@ header {
     font-size: 48px;
     line-height: 57.6px;
 }
+
 .style-thebrand h2 {
     font-family: 'Lato';
     font-style: normal;
@@ -98,6 +106,7 @@ header {
     line-height: 38.4px;
     width: 377px;
 }
+
 .fashion {
     color:#F16D7F;
 }
@@ -113,12 +122,14 @@ main {
     gap: 30px;
     height: 470px;
 }
+
 .card1 {
     background-image: url(../img/main-foto1.png);
     width: 360px;
     height: 260px;
     position: relative;
 }
+
 .card1 h2 {
     position:absolute;
     top: 105px;
@@ -131,17 +142,20 @@ main {
     height: 260px;
     position: relative;
 }
+
 .card2 h2 {
     position: absolute;
     top: 105px;
     margin-left: 133px;
 }
+
 .card3 {
     background-image: url(../img/main-foto3.png);
     width: 360px;
     height: 260px;
     position: relative;
 }
+
 .card3 h2 {
     position: absolute;
     top: 105px;
@@ -155,17 +169,21 @@ main {
     height: 180px;
     position: relative;
 }
+
 .shadow-mobile {
     visibility: hidden;
 }
+
 .card4 h2 {
     position: absolute;
     top: 65px;
     margin-left: 497px;
 }
+
 .card {
     cursor: pointer;
 }
+
 .card h2 {
     font-family: 'Lato';
     font-style: normal;
@@ -175,6 +193,7 @@ main {
     text-align: center;
     color: #FFFFFF;
 }
+
 .fashion-2 {
     font-family: 'Lato';
     font-style: normal;
@@ -191,6 +210,7 @@ main {
     align-items: center;
     margin-top: 96px;
 }
+
 .main-items h2 {
     font-family: 'Lato';
     font-style: normal;
@@ -200,6 +220,7 @@ main {
     color: #222222;
     margin-bottom: 6px;
 }
+
 .main-items p {
     font-family: 'Lato';
     font-style: normal;
@@ -220,6 +241,7 @@ main {
 .elem {
     background: #F8F8F8;
 }
+
 .elem h4 {
     font-family: 'Lato';
     font-style: normal;
@@ -230,6 +252,7 @@ main {
     margin-bottom: 12.65px;
     margin-left: 18px;
 }
+
 .elem p {
     font-family: 'Lato';
     font-style: normal;
@@ -261,6 +284,7 @@ main {
     margin-right: auto;
     margin-left: auto;
 }
+
 .catalog-button-style {
     background-color: #FFFFFF;
     font-family: 'Lato';
@@ -276,25 +300,28 @@ main {
     cursor: pointer;
 }
 
-
 .useful-Info {
     background: #222224;
     height: 341px;
 }
+
 .additional-Info {
     display: flex;
     gap: 30px;
     align-items: center;
     text-align: center;
 }
+
 .info {
     margin: 103px auto;
 }
+
 .info img {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 25px;
 }
+
 .info h4 {
     font-family: 'Lato';
     font-style: normal;
@@ -304,6 +331,7 @@ main {
     color: #FBFBFB;
     margin-bottom: 16px;
 }
+
 .info p {
     font-family: 'Lato';
     font-style: normal;
@@ -322,6 +350,7 @@ main {
     position: relative;
     
 }
+
 .info-subscribe {
     position: absolute;
     top: 0;
@@ -331,6 +360,7 @@ main {
     gap: 229px;
     align-items: center;
 }
+
 .background-subscribe {
     object-fit:cover;
     width: 100%;
@@ -343,6 +373,7 @@ main {
     margin-right: auto;
     margin-left: auto;
 }
+
 .subscribe1 p {
     width: 359.45px;
     height: 99px;
@@ -354,13 +385,16 @@ main {
     line-height: 24px;
     color: #222224;
 }
+
 .subscribe2 {
     width: 557px;
     margin-top: 125px;
 }
+
 .subscribe2-text {
     margin-bottom: 17px;
 }
+
 .subscribe2 h2 {
     font-family: 'Lato';
     font-style: normal;
@@ -370,6 +404,7 @@ main {
     text-align: center;
     color: #222224;
 }
+
 .subscribe2 p {
     font-family: 'Lato';
     font-style: normal;
@@ -378,8 +413,7 @@ main {
     line-height: 30.1px;
     text-align: center;
     color: #222224;
-    padding: 0px 106px;
-    
+    padding: 0px 106px;  
 }
 
 .forms-subscribe {
@@ -396,7 +430,6 @@ input[type=text] {
     border: 0;
     background: #E1E1E1;
     border-radius: 22px 0 0 22px;
-
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
@@ -435,6 +468,7 @@ footer {
     justify-content:space-between;
     align-items: center;
 }
+
 .footer-rights p {
     padding-left: 20px;
 }
@@ -458,6 +492,7 @@ footer {
 .social-networks {
     cursor: pointer;
 }
+
 .social-networks svg:hover {
     fill: #F16D7F;
 }
@@ -472,6 +507,7 @@ footer {
     fill: #FFFFFF;
     stroke: #FFFFFF;
 }
+
 .front2 {
     fill:black;
     stroke-width: 0;
@@ -489,15 +525,17 @@ footer {
 .style-thebrand {
     position: relative;
 }
+
 .menu-active.hidden{
     width: 232px;
     height: 634px;
     background: #FFFFFF;
-    position: absolute;
+    position: fixed;
     left: 85%;
     top: 75px;
     display: block;
 }
+
 .menu-active {
     width: 232px;
     height: 634px;
@@ -506,7 +544,9 @@ footer {
     right: 0;
     top: 75px;
     box-shadow: 15px 25px 56px 6px rgb(0 0 0 / 6%);
+    z-index: 1;
 }
+
 .menu-heading {
     font-family: 'Lato';
     font-style: normal;
@@ -518,6 +558,7 @@ footer {
     padding-left: 32px;
     cursor: pointer;
 }
+
 .menu-text {
     font-family: 'Lato';
     font-style: normal;
@@ -529,6 +570,7 @@ footer {
     padding-left: 33px;
     cursor: pointer;
 }
+
 .menu-list {
     font-family: 'Lato';
     font-style: normal;
@@ -539,6 +581,7 @@ footer {
     padding-left: 53.5px;
     list-style-type: none;
 }
+
 .menu-item {
     display: block;
     padding-top: 12px;
@@ -551,6 +594,7 @@ footer {
     transition-duration: 0.25s;
     cursor: pointer;
 }
+
 .menu-kids {
     margin-bottom: 32px;
 }
@@ -568,10 +612,12 @@ footer {
     background: rgba(0, 0, 0, 0);
     transition:  background 0.5s ease;
 }
+
 .elem:hover .overlay {
     display: block;
     background: rgba(0, 0, 0, 0.5);
 }
+
 .button-basket {
     position: absolute;
     width: 138px;
@@ -584,6 +630,7 @@ footer {
     display: flex;
     margin-left: 111px;
 }
+
 .button-basket a {
     padding: 13px 10px 12px 5px; 
     text-align: center;
@@ -599,9 +646,11 @@ footer {
     display: flex;
 }
 
+
 .elem:hover .button-basket {
     opacity: 1;
 }
+
 .button-basket a::before {
     content: url(../img/button-img-basket.svg);
     width: 26px;
@@ -614,33 +663,41 @@ footer {
         width: 736px;
         margin: 0 auto;
     }
+    
     .right-side-navigation {
         gap: 0;
     }
+    
     .lines {
         margin-right: 25px;
     }
+    
     .person {
         margin-right: 42px;
     }
+    
     .common-navigation {
         width: 695px;
         margin: 0 auto;
     }
+    
     .tittle-men {
         width: 386px;
         height: 368px;
         margin-left: 0;
     }
+    
     .style-thebrand {
         width: 283px;
         height: 78px;
         margin-left: 39px;
     }
+    
     .style-thebrand h1 {
         font-size: 44px;
         line-height: 52.8px;
     }
+    
     .style-thebrand h2 {
         font-size: 24px;
         line-height: 28.8px;
@@ -652,80 +709,95 @@ footer {
         height: 303px;
         gap: 19px;
     }
+    
     .card1 {
         background-image: url(../img/main-foto1.png);
         background-size: 232px 167px;
         width: 231.97px;
         height: 167.62px;
     }
+    
     .card2 {
         background-image: url(../img/main-foto2.png);
         background-size: 232px 167px;
         width: 231.97px;
         height: 167.62px;
     }
+    
     .card3 {
         background-image: url(../img/main-foto3.png);
         background-size: 232px 167px;
         width: 231.97px;
         height: 167px;
     }
+    
     .card4 {
         background-image: url(../img/main-foto4.png);
         background-size: 734px 116px;
         width: 734px;
         height: 116px;
     }
+    
     .card1 h2 {
         top: 57px;
         margin-left: 38.98px; 
     }
+    
     .card2 h2 {
         top: 57px;
         margin-left: 60.97px; 
     }
+    
     .card3 h2 {
         top: 57px;
         margin: 0 auto;
         padding-left: 59px;
     }
+    
     .card4 h2 {
         top: 33px;
         margin-left: 287.86px; 
         width: 159.92px;
     }
+    
     .main-items {
         margin-top: 109.92px;
     }
+    
     .main-items p {
         margin-bottom: 72.74px;
     }
+    
     .catalog {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-rows: 1fr 1fr 1fr;
         gap: 16px;
     }
+    
     .button-of-catalog {
         margin-top: 32.98px;
         margin-bottom: 71.02px;
     }
 
-
     .useful-Info {
         height: 610px;
     }
+    
     .additional-Info {
         display: flex;
         flex-direction: column;
         gap: 48px;
     }
+    
     .info {
         margin: 0 auto;
     }
+    
     .info1 img {
         margin-top: 48.16px;
     }
+    
     .info3 p {
         margin-bottom: 64px;
     }
@@ -733,21 +805,26 @@ footer {
     .subscribe {
         height: 614px;
     }
+    
     .info-subscribe {
         display: flex;
         flex-direction: column;
         gap: 48px;
         margin-left: 102px;
     }
+    
     .subscribe1 img {
         margin-top: 64px;
     }
+    
     .subscribe2 {
         margin-top: 0;
     } 
+    
     .footer-info {
         gap: 305px;
     }
+    
     .menu-active {
         z-index: 1;
     }
@@ -883,15 +960,7 @@ footer {
     } 
     .button-of-catalog {
         margin-top: 41.11px;
-        margin-bottom: 85.5px;menu-active.hidden{
-            width: 232px;
-            height: 634px;
-            background: #FFFFFF;
-            position: fixed;
-            left: 85%;
-            top: 75px;
-            display: none;
-        }
+        margin-bottom: 85.5px;
         margin-left: 0
     }
 
